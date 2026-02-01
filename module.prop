@@ -1,7 +1,7 @@
 id=RN8
 name=Driver Ginkgo
-version=6.0.0
-versionCode=600
+version=6.5.0
+versionCode=650
 author=@illumi
-description=Qualcomm, Adreno (TM) 610, OpenGL ES 3.2 V@378.0 (GIT@9b25276, I927234e026) (Date:06/25/19) + vulkan 1.3.
+description=Change your `Redmi note 8` driver to Optimize GPU performance.
 banner=https://raw.githubusercontent.com/DEMONNICA/Driver-Ginkgo/refs/heads/main/GINKGO.jpg
