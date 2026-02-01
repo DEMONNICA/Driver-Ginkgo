@@ -1,4 +1,4 @@
-> ![Image](https://github.com/user-attachments/assets/02ff917e-2221-4a50-af58-8074cd611ee0)
+> ![Image](https://github.com/user-attachments/assets/7cf0cf7f-a7c4-48ec-868c-d2a0f0a9ea12)
 
 > [!NOTE]
 > - Change your `Redmi note 8` driver to Optimize GPU performance.
@@ -6,14 +6,13 @@
 
 > [!IMPORTANT]
 > Features ✨:
-> 1. `Qualcomm, Adreno(TM) 610, OpenGL ES 3.2 V@378.0 (GIT@9b25276, I927234e026) (Date:06/25/19)`+ `vulkan 1.3`. ✔️
+> 1. `Qualcomm, Adreno(TM) 610, OpenGL ES 3.2 V@378.0 (GIT@9b25276, I927234e026) (Date:06/25/19)`. ✔️
 <hr/>
 
 > [!TIP]
 > 1. Supports `Magisk` `APatch` `SukiSU` `KernelSU` and `other variants`.
 > 2. Only supports Android `10 sdk 29`.
 > 3. Check the changes using [GLview](https://play.google.com/store/apps/details?id=com.realtechvr.glviewpro)
-> 4. To check for changes from `vulkan` use [DevCheck](https://play.google.com/store/apps/details?id=flar2.devcheck)
 <hr/>
 
 > Download the module here 📦:                  
@@ -42,6 +41,7 @@ You can also show further appreciation by donating below
 <hr/>
 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/illumi666)
-[![](https://img.shields.io/badge/-Trakteer-red?style=for-the-badge)](https://trakteer.id/demonica/tip)
-[![Saweria](https://img.shields.io/badge/-Saweria-yellow?style=for-the-badge&logoColor=white)](https://saweria.co/DEMONICA)
-[![Paypal](https://img.shields.io/badge/Paypal-blue?style=for-the-badge&logoColor=white)](https://www.paypal.com/paypalme/faniadittiya)
+[![Sociabuzz](https://img.shields.io/badge/Sociabuzz-FF6B2A?style=for-the-badge&logo=sociabuzz&logoColor=white)](https://sociabuzz.com/demonica/tribe)
+[![Trakteer](https://img.shields.io/badge/Trakteer-FF0000?style=for-the-badge)](https://trakteer.id/demonica/tip)
+[![Saweria](https://img.shields.io/badge/Saweria-FFC107?style=for-the-badge&logoColor=black)](https://saweria.co/DEMONICA)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/faniadittiya)
