@@ -1,7 +1,7 @@
 id=RN8
 name=Driver Ginkgo
-version=6.5.0
-versionCode=650
+version=6.6.6
+versionCode=666
 author=@illumi
-description=Change your `Redmi note 8` driver to Optimize GPU performance.
+description=Replaces the GPU driver on Redmi Note 8 with an optimized build for better graphics performance and stability.
 banner=https://raw.githubusercontent.com/DEMONNICA/Driver-Ginkgo/refs/heads/main/GINKGO.jpg
