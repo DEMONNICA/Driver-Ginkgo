@@ -1,47 +1,41 @@
-> ![Image](https://github.com/user-attachments/assets/7cf0cf7f-a7c4-48ec-868c-d2a0f0a9ea12)
+> ![Image](https://github.com/user-attachments/assets/e427dccf-4983-4535-9a3f-0241faa0c467)
 
 > [!NOTE]
-> - Change your `Redmi note 8` driver to Optimize GPU performance.
-<hr/>
+> ```
+> Replaces the GPU driver on Redmi Note 8 with an optimized build for better graphics performance and stability.
+> ```
 
 > [!IMPORTANT]
 > Features ✨:
-> 1. `Qualcomm, Adreno(TM) 610, OpenGL ES 3.2 V@378.0 (GIT@9b25276, I927234e026) (Date:06/25/19)`. ✔️
-<hr/>
+> 1. Supports two driver variants for Android 10 — `Q-378` and `Q-415` — selectable via volume key during installation.
+> 2. Automatically applies `R` driver for Android 11 without user input.
+> 3. Backs up original system driver files before replacing.
+> 4. Restores original driver automatically on uninstall.
+> 5. Displays active GPU driver info in module description after reboot.
+> 6. Check the changes using [GLview](https://play.google.com/store/apps/details?id=com.realtechvr.glviewpro) or `dumpsys SurfaceFlinger | grep "GLES:"`.
 
 > [!TIP]
-> 1. Supports `Magisk` `APatch` `SukiSU` `KernelSU` and `other variants`.
-> 2. Only supports Android `10 sdk 29`.
-> 3. Check the changes using [GLview](https://play.google.com/store/apps/details?id=com.realtechvr.glviewpro)
-<hr/>
-
-> Download the module here 📦:                  
-> [![Telegram URL](https://img.shields.io/badge/Telegram-Join-2CA5E?style=social&logo=telegram)](https://t.me/modulkuntul)
-> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="40">&nbsp;
-<hr/>
+> 1. Supports `Magisk` `KernelSU` `KernelSU Next` `APatch` `SukiSU` and their variants.
+> 2. Only supports Android `10 SDK 29` and Android `11 SDK 30`.
+> 3. Only supports `aarch64 (arm64-v8a)` architecture.
 
 > [!WARNING]
 > Disclaimers 🛡️:
-> - This module is provided as is, without warranty of any kind. Any risks of use are entirely your responsibility. It is recommended to back up important data and configuration before installation. This module was developed in good faith to provide benefits, but the author is not responsible for any damage or problems that may occur as a result of its use.
-<hr/>
+> - Use at your own risk. No guarantees are made regarding stability, compatibility, or safety. Always back up your data before installing anything.
+> - These works are tested on specific devices only. Behavior on other devices may vary significantly.
+> - The author reserves the right to discontinue, modify, or remove any module or plugin at any time without prior notice.
 
 > [!CAUTION]
 > Warning ☢️:
-> 1. Use of this module is the sole responsibility of the user. The developer is not responsible for any damage or malfunctions that may occur as a result of the installation or use of this module.
-> 2. This module can modify certain parts of the system. Under certain conditions or configurations, misuse may cause problems such as bootloops or system instability.
-> 3. Before proceeding with the installation, make sure you have access to a recovery mode such as TWRP or ADB as a safety measure in case something goes wrong.
-> 4. This module modifies various sensitive system parameters. Improper or incompatible configurations may lead to system instability, overheating, performance degradation, or even bootloops. Use responsibly and ensure you understand the risks involved in applying each modification.
-<hr/>
+> 1. The developer takes no responsibility for any damage, data loss, or device malfunction caused by the use of these works.
+> 2. System modifications can be unpredictable. What works on one device may break another.
+> 3. Always have a recovery solution ready — TWRP, ADB, or fastboot — before proceeding.
+> 4. If you do not fully understand what a modification does, do not apply it.
+> 5. Redistribution, modification, or repackaging of these works without explicit permission from the author is strictly prohibited.
+> 6. Rooted devices with custom ROM may behave differently. Proceed with extra caution.
+> 7. Any modification applied to the system is your decision. Think before you act.
 
-<div align="center">
-If you like this work, please star ⭐ or follow me on GitHub.
-Your support means a lot and helps me to continue developing open source projects.
-You can also show further appreciation by donating below
-<div align="center">
-<hr/>
-
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/illumi666)
-[![Sociabuzz](https://img.shields.io/badge/Sociabuzz-FF6B2A?style=for-the-badge&logo=sociabuzz&logoColor=white)](https://sociabuzz.com/demonica/tribe)
-[![Trakteer](https://img.shields.io/badge/Trakteer-FF0000?style=for-the-badge)](https://trakteer.id/demonica/tip)
-[![Saweria](https://img.shields.io/badge/Saweria-FFC107?style=for-the-badge&logoColor=black)](https://saweria.co/DEMONICA)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/faniadittiya)
+> Download 📦:
+> - [Download now Driver Ginkgo.](https://shrinkme.click/MWTo)
+> - [For Magisk Modules or other Plugins, please visit here.](https://t.me/Demoniica)
+----
