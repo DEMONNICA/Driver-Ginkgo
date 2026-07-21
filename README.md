@@ -31,7 +31,7 @@
 > 5. If the driver is not applied after reboot, install **Meta** to enable system file overlay support:
 >    - [Download Meta — Hybrid Mount](https://github.com/Hybrid-Mount/meta-hybrid_mount/releases)
 
->> [!WARNING]
+> [!WARNING]
 > 1. If you do not fully understand what a modification does, do not apply it.
 > 2. Always have a recovery solution ready — TWRP, ADB, or fastboot — before proceeding.
 > 3. Rooted devices with custom ROM may behave differently. Proceed with extra caution.
