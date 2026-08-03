@@ -11,7 +11,7 @@
 > 2. Backs up original system driver files before replacing.
 > 3. Restores original driver automatically on uninstall.
 
->> [!TIP]
+> [!TIP]
 > 1. Supports `APatch` `KernelSU` `Magisk` and their forks.
 > 2. Only supports Android `10 SDK 29` and Android `11 SDK 30`.
 > 3. Only supports `aarch64 (arm64-v8a)` architecture.
