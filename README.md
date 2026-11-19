@@ -8,28 +8,21 @@
 > [!IMPORTANT]
 > Features ✨:
 > 1. Driver variant selection via volume key during installation.
-> 2. Backs up original system driver files before replacing.
-> 3. Restores original driver automatically on uninstall.
 
 > [!TIP]
 > 1. Supports `APatch` `KernelSU` `Magisk` and their forks.
 > 2. Only supports Android `10 SDK 29` and Android `11 SDK 30`.
-> 3. Only supports `aarch64 (arm64-v8a)` architecture.
-> 4. To verify the active GPU driver after reboot, two methods are available:
->    - **Method 1** — Using a visual app:
->      Install [GPU Viewer (GLView)](https://play.google.com/store/apps/details?id=com.realtechvr.glviewpro) and open it after reboot. Navigate to the **GL** tab and check the **Renderer** and **Version** fields to confirm the applied driver.
->    - **Method 2** — Using ADB or Termux:
->      ```sh
->      dumpsys SurfaceFlinger | grep "GLES:" | sed 's/GLES: //'
->      ```
->      The output will display the active OpenGL ES driver string, for example:
->      ```
->      Qualcomm, Adreno (TM) 610, OpenGL ES 3.2 V@0615.0 ...
->      ```
->      The version string at the end reflects the currently loaded driver build.
->    > Both methods require the device to be rebooted after module installation.
-> 5. If the driver is not applied after reboot, install **Meta** to enable system file overlay support:
->    - [Download Meta — Hybrid Mount](https://github.com/Hybrid-Mount/meta-hybrid_mount/releases)
+> 3. Only supports `Redmi Note 8 Ginkgo`.
+> 4. To verify the active GPU driver after reboot, use [GPU Viewer (GLView)](https://play.google.com/store/apps/details?id=com.realtechvr.glviewpro) or run in Termux:
+>    ```sh
+>    dumpsys SurfaceFlinger | grep "GLES:" | sed 's/GLES: //'
+>    ```
+> 5. <details>
+>    <summary>Use a metamodule for compatibility with this module</summary>
+>
+>    [Hybrid Mount](https://github.com/Hybrid-Mount/meta-hybrid_mount) | [NoMount](https://github.com/maxsteeel/nomount) | [ZeroMount](https://github.com/Enginex0/zeromount) | [Mountify](https://github.com/backslashxx/mountify)
+>
+>    </details>
 
 > [!WARNING]
 > 1. If you do not fully understand what a modification does, do not apply it.
